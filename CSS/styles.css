@@ -1,0 +1,18 @@
+p.intro{
+font-style:italic;
+width: 75%;
+margin-left: 15%;
+}
+h2.intro{
+  color: #ADD8E6;
+  font-family:'Lucida Sans';
+  font-weight: bold;
+  text-align: center;
+}
+img.intro{
+  border-radius: 10px;
+  margin-left: 35%;
+}
+h1{
+  text-align: center;
+}
